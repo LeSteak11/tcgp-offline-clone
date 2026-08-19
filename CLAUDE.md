@@ -1,8 +1,10 @@
 # tcgp-offline-clone
 
 Personal, offline clone of Pokémon TCG Pocket's **collection + pack-opening** loop only.
-Not for distribution. No copyrighted art — cards render as generated placeholders
-(`src/ui/components/CardFace.tsx`), with an optional `public/art/<cardId>.png` override.
+Not for distribution. Card art is fetched locally for personal offline use via
+`npm run fetch-art` into `public/art/` and is **never committed** (gitignored).
+When an art file is absent, `src/ui/components/CardFace.tsx` falls back to a
+generated placeholder frame, so the repo is fully functional without art.
 
 ## Rules
 
@@ -19,6 +21,7 @@ Not for distribution. No copyrighted art — cards render as generated placehold
 - `npm run dev` — dev server
 - `npm test` — Vitest (odds engine + data validation)
 - `npm run fetch-data` — regenerate `data/` from TCGdex (network required, dev-only)
+- `npm run fetch-art` — download card art to `public/art/` (network required, dev-only, resumable)
 - `npm run build && npm run preview` — production build, works fully offline
 
 ## Out of scope (do not build)

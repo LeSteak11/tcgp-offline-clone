@@ -30,6 +30,16 @@ describe('data files', () => {
     expect(a1a.cards.length).toBeGreaterThanOrEqual(80);
   });
 
+  it('every card id resolves to a legal art filename', () => {
+    // Art files are saved as public/art/<cardId>.webp — ids must be safe as
+    // filenames on every platform (no separators, reserved chars, or spaces).
+    for (const set of SETS) {
+      for (const card of set.cards) {
+        expect(card.id, `card id "${card.id}"`).toMatch(/^[A-Za-z0-9][A-Za-z0-9-]*$/);
+      }
+    }
+  });
+
   it('every pack has a non-empty pool for every regular-slot rarity', () => {
     for (const pack of PACKS_FILE.packs) {
       const pools = POOLS[pack.id];

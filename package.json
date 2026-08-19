@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fetch-data": "node scripts/fetch-data.mjs"
+    "fetch-data": "node scripts/fetch-data.mjs",
+    "fetch-art": "node scripts/fetch-art.mjs"
   },
   "dependencies": {
     "idb": "^8.0.0",

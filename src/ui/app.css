@@ -193,6 +193,13 @@ button { font: inherit; color: inherit; }
   display: flex; align-items: center; justify-content: center; overflow: hidden;
 }
 .card-face__art img { width: 100%; height: 100%; object-fit: cover; }
+/* full-card mode: the TCGdex image is a complete card, so it IS the face */
+.card-face__full-img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover; border-radius: 5px; z-index: 1;
+  font-size: 0; /* hide alt text while probing for the file */
+}
+.card-face--full { background: #000; }
 .card-face__monogram {
   font-size: 2.4rem; font-weight: 900;
   color: color-mix(in srgb, var(--type-color) 65%, white); opacity: 0.65;

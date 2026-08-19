@@ -17,12 +17,13 @@ export const TYPE_COLORS: Record<CardType, string> = {
 };
 
 /**
- * Placeholder card renderer. No copyrighted art — a type-colored frame with
- * name/HP/stage/rarity/id. If public/art/<cardId>.png exists it is shown in
- * the artwork panel instead of the generated monogram.
+ * Card renderer. If public/art/<cardId>.webp exists (see npm run fetch-art),
+ * the full-card image is the entire face. Otherwise a generated placeholder:
+ * type-colored frame with name/HP/stage/rarity/id. TCGdex images are complete
+ * cards (frame, name, attacks), so full-card mode draws no chrome of its own.
  */
 export function CardFace({ card, small }: { card: Card; small?: boolean }) {
-  const [hasArt, setHasArt] = useState(true);
+  const [art, setArt] = useState<'pending' | 'ok' | 'missing'>('pending');
   const color = TYPE_COLORS[card.type];
   const crown = card.rarity === 'CROWN';
   const starPlus = card.rarity.startsWith('S') || crown;
@@ -34,33 +35,39 @@ export function CardFace({ card, small }: { card: Card; small?: boolean }) {
         small ? 'card-face--small' : '',
         starPlus ? 'card-face--shiny' : '',
         crown ? 'card-face--crown' : '',
+        art === 'ok' ? 'card-face--full' : '',
       ].join(' ')}
       style={{ '--type-color': color } as React.CSSProperties}
     >
-      <div className="card-face__header">
-        <span className="card-face__name">{card.name}</span>
-        {card.hp != null && <span className="card-face__hp">{card.hp} HP</span>}
-      </div>
-      <div className="card-face__art">
-        {hasArt ? (
-          <img
-            src={`${import.meta.env.BASE_URL}art/${card.id}.png`}
-            alt=""
-            onError={() => setHasArt(false)}
-            draggable={false}
-          />
-        ) : (
-          <span className="card-face__monogram">{card.name.charAt(0)}</span>
-        )}
-      </div>
-      <div className="card-face__meta">
-        {card.stage && <span className="card-face__stage">{card.stage}</span>}
-        {card.isEx && <span className="card-face__ex">ex</span>}
-      </div>
-      <div className="card-face__footer">
-        <RarityGlyphs rarity={card.rarity} />
-        <span className="card-face__id">{card.id}</span>
-      </div>
+      {art !== 'missing' && (
+        <img
+          className="card-face__full-img"
+          src={`${import.meta.env.BASE_URL}art/${card.id}.webp`}
+          alt={card.name}
+          onLoad={() => setArt('ok')}
+          onError={() => setArt('missing')}
+          draggable={false}
+        />
+      )}
+      {art !== 'ok' && (
+        <>
+          <div className="card-face__header">
+            <span className="card-face__name">{card.name}</span>
+            {card.hp != null && <span className="card-face__hp">{card.hp} HP</span>}
+          </div>
+          <div className="card-face__art">
+            <span className="card-face__monogram">{card.name.charAt(0)}</span>
+          </div>
+          <div className="card-face__meta">
+            {card.stage && <span className="card-face__stage">{card.stage}</span>}
+            {card.isEx && <span className="card-face__ex">ex</span>}
+          </div>
+          <div className="card-face__footer">
+            <RarityGlyphs rarity={card.rarity} />
+            <span className="card-face__id">{card.id}</span>
+          </div>
+        </>
+      )}
     </div>
   );
 }
