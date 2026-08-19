@@ -8,6 +8,7 @@ import { useCollection } from '../../store/collection';
 import { useSettings } from '../../store/settings';
 import { useNav } from '../../store/nav';
 import { CardFace } from '../components/CardFace';
+import { PackArt } from '../components/PackArt';
 
 type Phase = 'arrive' | 'ready' | 'torn' | 'summary';
 
@@ -131,13 +132,12 @@ export function OpenPack({ packId }: { packId: string }) {
           {(phase === 'arrive' || phase === 'ready') && (
             <div className={`pack-wrap pack-wrap--${phase}`}>
               <div
-                className="pack-art pack-art--big"
                 onPointerDown={() => { tearing.current = true; }}
                 onPointerUp={() => { if (tearing.current) tear(); tearing.current = false; }}
               >
-                <div className="pack-art__tear-strip">✂ click or drag to tear</div>
-                <div className="pack-art__foil" />
-                <span className="pack-art__label">{pack.name}</span>
+                <PackArt pack={pack} big>
+                  <div className="pack-art__tear-strip">✂ click or drag to tear</div>
+                </PackArt>
               </div>
               {phase === 'ready' && <p className="hint">Tear the top open (or press space)</p>}
             </div>

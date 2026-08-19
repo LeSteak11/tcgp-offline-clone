@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { PACKS_FILE, getSet } from '../../engine/data';
 import { setCompletion, useCollection } from '../../store/collection';
 import { useNav } from '../../store/nav';
+import { PackArt } from '../components/PackArt';
 
 export function Home() {
   const [setId, setSetId] = useState('A1');
@@ -31,16 +32,8 @@ export function Home() {
 
       <div className="pack-grid">
         {packs.map((pack) => (
-          <div
-            key={pack.id}
-            className="pack-tile"
-            style={{ '--pack-color': pack.color } as React.CSSProperties}
-          >
-            <div className="pack-art">
-              <div className="pack-art__foil" />
-              <span className="pack-art__label">{pack.name}</span>
-              <span className="pack-art__set">{getSet(pack.setId)?.name}</span>
-            </div>
+          <div key={pack.id} className="pack-tile">
+            <PackArt pack={pack} />
             <button
               className="btn btn--primary"
               onClick={() => go({ name: 'open', packId: pack.id })}

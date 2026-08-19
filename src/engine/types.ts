@@ -33,11 +33,13 @@ export interface Pack {
   setId: string;
   name: string;
   color: string;
+  heroCardId?: string; // namesake card whose art fronts the pack wrapper
 }
 
 export interface SetInfo {
   id: string;
   name: string;
+  logo?: string;     // public path to the set logo image
 }
 
 export interface PacksFile {

@@ -55,6 +55,28 @@ async function downloadOne({ cardId, imageBase }) {
   }
 }
 
+// Set logos (used as pack-wrapper branding) live at a fixed assets URL.
+async function fetchSetLogos() {
+  const packsFile = JSON.parse(
+    await readFile(path.join(ROOT, 'data', 'packs.json'), 'utf8'),
+  );
+  const dir = path.join(OUT, 'sets');
+  await mkdir(dir, { recursive: true });
+  for (const set of packsFile.sets) {
+    const dest = path.join(dir, `${set.id}.png`);
+    if (existsSync(dest)) continue;
+    const url = `https://assets.tcgdex.net/en/tcgp/${set.id}/logo.png`;
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      await writeFile(dest, Buffer.from(await res.arrayBuffer()));
+      console.log(`  set logo ${set.id}.png`);
+    } catch (e) {
+      console.warn(`  ! set logo ${set.id}: ${e.message} (${url})`);
+    }
+  }
+}
+
 const cacheFiles = (await readdir(CACHE)).filter((f) => f.startsWith('card-'));
 const jobs = [];
 for (const file of cacheFiles) {
@@ -67,6 +89,7 @@ for (const file of cacheFiles) {
 }
 
 await mkdir(OUT, { recursive: true });
+await fetchSetLogos();
 console.log(`Fetching art for ${jobs.length} cards (high.webp, concurrency ${CONCURRENCY})...`);
 
 let done = 0;

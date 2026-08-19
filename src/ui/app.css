@@ -72,13 +72,27 @@ button { font: inherit; color: inherit; }
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
 }
 .pack-art--big { width: 220px; height: 380px; cursor: pointer; touch-action: none; }
+/* hero: the namesake card's full art, masked into the wrapper's midsection */
+.pack-art__hero {
+  position: absolute; top: 10%; left: 0; width: 100%; height: 68%;
+  object-fit: cover; object-position: center 22%;
+  mask-image: linear-gradient(to bottom, transparent 0%, black 14%, black 76%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 14%, black 76%, transparent 100%);
+}
 .pack-art__foil {
   position: absolute; inset: 0;
   background: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.28) 45%, transparent 60%);
 }
+.pack-art__logo {
+  position: absolute; top: 6%; left: 50%; transform: translateX(-50%);
+  width: 80%; z-index: 1;
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.65));
+}
+.pack-art--big .pack-art__logo { top: 12%; }
 .pack-art__label {
+  position: absolute; bottom: 6%; left: 0; right: 0; text-align: center;
   font-size: 1.35rem; font-weight: 800; letter-spacing: 0.05em;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.6); z-index: 1;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.75); z-index: 1;
 }
 .pack-art__set { font-size: 0.7rem; opacity: 0.85; z-index: 1; }
 .pack-art__tear-strip {

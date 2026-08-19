@@ -54,6 +54,12 @@ export function validateData(
     }
   }
 
+  for (const pack of packsFile.packs) {
+    if (pack.heroCardId && !seenCardIds.has(pack.heroCardId)) {
+      errors.push(`pack ${pack.id}: heroCardId ${pack.heroCardId} not in any set`);
+    }
+  }
+
   validateOdds(odds, errors);
   return { errors, warnings };
 }
