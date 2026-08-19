@@ -37,17 +37,22 @@ function resolvePool(
   throw new Error(`openPack: pack ${packId} has no cards at all`);
 }
 
+export interface OpenPackOptions {
+  forceGodPack?: boolean; // debug only
+}
+
 export function openPack(
   packId: string,
   pools: PackPools,
   odds: OddsTable,
   seed: number,
+  options: OpenPackOptions = {},
 ): PullResult {
   const rng = mulberry32(seed);
   const packPools = pools[packId];
   if (!packPools) throw new Error(`openPack: unknown pack "${packId}"`);
 
-  const isGodPack = rng() < odds.godPackChance;
+  const isGodPack = options.forceGodPack || rng() < odds.godPackChance;
   const slotTables = isGodPack ? odds.godPackSlots : odds.slots;
 
   const cards: Card[] = slotTables.map((table) => {

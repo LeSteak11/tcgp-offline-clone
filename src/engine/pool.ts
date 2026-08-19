@@ -11,7 +11,7 @@ export function buildPools(cards: Card[]): PackPools {
       if (!pools[packId]) {
         pools[packId] = Object.fromEntries(
           RARITIES.map((r) => [r, []]),
-        ) as Record<Rarity, Card[]>;
+        ) as unknown as Record<Rarity, Card[]>;
       }
       pools[packId][card.rarity].push(card);
     }

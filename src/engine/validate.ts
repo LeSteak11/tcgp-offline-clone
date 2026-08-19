@@ -1,4 +1,4 @@
-import type { Card, OddsTable, PacksFile, SetFile } from './types';
+import type { OddsTable, PacksFile, SetFile } from './types';
 import { RARITIES } from './rarity';
 
 export interface ValidationResult {
