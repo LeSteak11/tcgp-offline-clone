@@ -1,0 +1,28 @@
+# tcgp-offline-clone
+
+Personal, offline clone of Pokémon TCG Pocket's **collection + pack-opening** loop only.
+Not for distribution. No copyrighted art — cards render as generated placeholders
+(`src/ui/components/CardFace.tsx`), with an optional `public/art/<cardId>.png` override.
+
+## Rules
+
+- `src/engine/` has **zero React imports**. Pure TypeScript, testable in isolation.
+- UI never rolls RNG directly — all randomness goes through `src/engine/rng.ts` / `openPack.ts`.
+- All card/pack/odds data lives in `data/` as JSON. Code never hardcodes card lists or odds.
+- Animations are CSS-only (transitions/keyframes). No PixiJS/WebGL/canvas particle systems.
+- No network calls at runtime. `scripts/fetch-data.mjs` is a one-time dev-side data fetch.
+- Run `npm test` before finishing any task.
+- After UI changes, take a screenshot and look at it before moving on.
+
+## Commands
+
+- `npm run dev` — dev server
+- `npm test` — Vitest (odds engine + data validation)
+- `npm run fetch-data` — regenerate `data/` from TCGdex (network required, dev-only)
+- `npm run build && npm run preview` — production build, works fully offline
+
+## Out of scope (do not build)
+
+Battle, decks, missions, hourglasses/timers, shop, currency, pack points/crafting,
+wonder pick, trading, friends, sound, login/accounts. v0 = Genetic Apex (A1) +
+Mythical Island (A1a) only; no shiny rarities.

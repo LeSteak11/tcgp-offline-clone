@@ -1,0 +1,3874 @@
+{
+  "_source": "tcgdex",
+  "_fetched": "2026-08-19T00:19:45.861Z",
+  "setId": "A1",
+  "name": "Genetic Apex",
+  "officialCount": 226,
+  "cards": [
+    {
+      "id": "A1-001",
+      "setId": "A1",
+      "number": 1,
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-002",
+      "setId": "A1",
+      "number": 2,
+      "name": "Ivysaur",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-003",
+      "setId": "A1",
+      "number": 3,
+      "name": "Venusaur",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 160,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-004",
+      "setId": "A1",
+      "number": 4,
+      "name": "Venusaur ex",
+      "type": "Grass",
+      "rarity": "D4",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 190,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1-005",
+      "setId": "A1",
+      "number": 5,
+      "name": "Caterpie",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-006",
+      "setId": "A1",
+      "number": 6,
+      "name": "Metapod",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-007",
+      "setId": "A1",
+      "number": 7,
+      "name": "Butterfree",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-008",
+      "setId": "A1",
+      "number": 8,
+      "name": "Weedle",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-009",
+      "setId": "A1",
+      "number": 9,
+      "name": "Kakuna",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-010",
+      "setId": "A1",
+      "number": 10,
+      "name": "Beedrill",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 120,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-011",
+      "setId": "A1",
+      "number": 11,
+      "name": "Oddish",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-012",
+      "setId": "A1",
+      "number": 12,
+      "name": "Gloom",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-013",
+      "setId": "A1",
+      "number": 13,
+      "name": "Vileplume",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-014",
+      "setId": "A1",
+      "number": 14,
+      "name": "Paras",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-015",
+      "setId": "A1",
+      "number": 15,
+      "name": "Parasect",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-016",
+      "setId": "A1",
+      "number": 16,
+      "name": "Venonat",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-017",
+      "setId": "A1",
+      "number": 17,
+      "name": "Venomoth",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-018",
+      "setId": "A1",
+      "number": 18,
+      "name": "Bellsprout",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-019",
+      "setId": "A1",
+      "number": 19,
+      "name": "Weepinbell",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-020",
+      "setId": "A1",
+      "number": 20,
+      "name": "Victreebel",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-021",
+      "setId": "A1",
+      "number": 21,
+      "name": "Exeggcute",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-022",
+      "setId": "A1",
+      "number": 22,
+      "name": "Exeggutor",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-023",
+      "setId": "A1",
+      "number": 23,
+      "name": "Exeggutor ex",
+      "type": "Grass",
+      "rarity": "D4",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 160,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1-024",
+      "setId": "A1",
+      "number": 24,
+      "name": "Tangela",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-025",
+      "setId": "A1",
+      "number": 25,
+      "name": "Scyther",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-026",
+      "setId": "A1",
+      "number": 26,
+      "name": "Pinsir",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-027",
+      "setId": "A1",
+      "number": 27,
+      "name": "Cottonee",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-028",
+      "setId": "A1",
+      "number": 28,
+      "name": "Whimsicott",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-029",
+      "setId": "A1",
+      "number": 29,
+      "name": "Petilil",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-030",
+      "setId": "A1",
+      "number": 30,
+      "name": "Lilligant",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-031",
+      "setId": "A1",
+      "number": 31,
+      "name": "Skiddo",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-032",
+      "setId": "A1",
+      "number": 32,
+      "name": "Gogoat",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-033",
+      "setId": "A1",
+      "number": 33,
+      "name": "Charmander",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-034",
+      "setId": "A1",
+      "number": 34,
+      "name": "Charmeleon",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-035",
+      "setId": "A1",
+      "number": 35,
+      "name": "Charizard",
+      "type": "Fire",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 150,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-036",
+      "setId": "A1",
+      "number": 36,
+      "name": "Charizard ex",
+      "type": "Fire",
+      "rarity": "D4",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1-037",
+      "setId": "A1",
+      "number": 37,
+      "name": "Vulpix",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-038",
+      "setId": "A1",
+      "number": 38,
+      "name": "Ninetales",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-039",
+      "setId": "A1",
+      "number": 39,
+      "name": "Growlithe",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-040",
+      "setId": "A1",
+      "number": 40,
+      "name": "Arcanine",
+      "type": "Fire",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-041",
+      "setId": "A1",
+      "number": 41,
+      "name": "Arcanine ex",
+      "type": "Fire",
+      "rarity": "D4",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1-042",
+      "setId": "A1",
+      "number": 42,
+      "name": "Ponyta",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-043",
+      "setId": "A1",
+      "number": 43,
+      "name": "Rapidash",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-044",
+      "setId": "A1",
+      "number": 44,
+      "name": "Magmar",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-045",
+      "setId": "A1",
+      "number": 45,
+      "name": "Flareon",
+      "type": "Fire",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-046",
+      "setId": "A1",
+      "number": 46,
+      "name": "Moltres",
+      "type": "Fire",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-047",
+      "setId": "A1",
+      "number": 47,
+      "name": "Moltres ex",
+      "type": "Fire",
+      "rarity": "D4",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1-048",
+      "setId": "A1",
+      "number": 48,
+      "name": "Heatmor",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-049",
+      "setId": "A1",
+      "number": 49,
+      "name": "Salandit",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-050",
+      "setId": "A1",
+      "number": 50,
+      "name": "Salazzle",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-051",
+      "setId": "A1",
+      "number": 51,
+      "name": "Sizzlipede",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-052",
+      "setId": "A1",
+      "number": 52,
+      "name": "Centiskorch",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-053",
+      "setId": "A1",
+      "number": 53,
+      "name": "Squirtle",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-054",
+      "setId": "A1",
+      "number": 54,
+      "name": "Wartortle",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-055",
+      "setId": "A1",
+      "number": 55,
+      "name": "Blastoise",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-056",
+      "setId": "A1",
+      "number": 56,
+      "name": "Blastoise ex",
+      "type": "Water",
+      "rarity": "D4",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1-057",
+      "setId": "A1",
+      "number": 57,
+      "name": "Psyduck",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-058",
+      "setId": "A1",
+      "number": 58,
+      "name": "Golduck",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-059",
+      "setId": "A1",
+      "number": 59,
+      "name": "Poliwag",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-060",
+      "setId": "A1",
+      "number": 60,
+      "name": "Poliwhirl",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-061",
+      "setId": "A1",
+      "number": 61,
+      "name": "Poliwrath",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 150,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-062",
+      "setId": "A1",
+      "number": 62,
+      "name": "Tentacool",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-063",
+      "setId": "A1",
+      "number": 63,
+      "name": "Tentacruel",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 110,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-064",
+      "setId": "A1",
+      "number": 64,
+      "name": "Seel",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-065",
+      "setId": "A1",
+      "number": 65,
+      "name": "Dewgong",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-066",
+      "setId": "A1",
+      "number": 66,
+      "name": "Shellder",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-067",
+      "setId": "A1",
+      "number": 67,
+      "name": "Cloyster",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-068",
+      "setId": "A1",
+      "number": 68,
+      "name": "Krabby",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-069",
+      "setId": "A1",
+      "number": 69,
+      "name": "Kingler",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-070",
+      "setId": "A1",
+      "number": 70,
+      "name": "Horsea",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-071",
+      "setId": "A1",
+      "number": 71,
+      "name": "Seadra",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-072",
+      "setId": "A1",
+      "number": 72,
+      "name": "Goldeen",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-073",
+      "setId": "A1",
+      "number": 73,
+      "name": "Seaking",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-074",
+      "setId": "A1",
+      "number": 74,
+      "name": "Staryu",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-075",
+      "setId": "A1",
+      "number": 75,
+      "name": "Starmie",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-076",
+      "setId": "A1",
+      "number": 76,
+      "name": "Starmie ex",
+      "type": "Water",
+      "rarity": "D4",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1-077",
+      "setId": "A1",
+      "number": 77,
+      "name": "Magikarp",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 30,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-078",
+      "setId": "A1",
+      "number": 78,
+      "name": "Gyarados",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-079",
+      "setId": "A1",
+      "number": 79,
+      "name": "Lapras",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-080",
+      "setId": "A1",
+      "number": 80,
+      "name": "Vaporeon",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-081",
+      "setId": "A1",
+      "number": 81,
+      "name": "Omanyte",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-082",
+      "setId": "A1",
+      "number": 82,
+      "name": "Omastar",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-083",
+      "setId": "A1",
+      "number": 83,
+      "name": "Articuno",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-084",
+      "setId": "A1",
+      "number": 84,
+      "name": "Articuno ex",
+      "type": "Water",
+      "rarity": "D4",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1-085",
+      "setId": "A1",
+      "number": 85,
+      "name": "Ducklett",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-086",
+      "setId": "A1",
+      "number": 86,
+      "name": "Swanna",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-087",
+      "setId": "A1",
+      "number": 87,
+      "name": "Froakie",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-088",
+      "setId": "A1",
+      "number": 88,
+      "name": "Frogadier",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-089",
+      "setId": "A1",
+      "number": 89,
+      "name": "Greninja",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 120,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-090",
+      "setId": "A1",
+      "number": 90,
+      "name": "Pyukumuku",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-091",
+      "setId": "A1",
+      "number": 91,
+      "name": "Bruxish",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-092",
+      "setId": "A1",
+      "number": 92,
+      "name": "Snom",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-093",
+      "setId": "A1",
+      "number": 93,
+      "name": "Frosmoth",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-094",
+      "setId": "A1",
+      "number": 94,
+      "name": "Pikachu",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-095",
+      "setId": "A1",
+      "number": 95,
+      "name": "Raichu",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-096",
+      "setId": "A1",
+      "number": 96,
+      "name": "Pikachu ex",
+      "type": "Lightning",
+      "rarity": "D4",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1-097",
+      "setId": "A1",
+      "number": 97,
+      "name": "Magnemite",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-098",
+      "setId": "A1",
+      "number": 98,
+      "name": "Magneton",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-099",
+      "setId": "A1",
+      "number": 99,
+      "name": "Voltorb",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-100",
+      "setId": "A1",
+      "number": 100,
+      "name": "Electrode",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-101",
+      "setId": "A1",
+      "number": 101,
+      "name": "Electabuzz",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-102",
+      "setId": "A1",
+      "number": 102,
+      "name": "Jolteon",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-103",
+      "setId": "A1",
+      "number": 103,
+      "name": "Zapdos",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-104",
+      "setId": "A1",
+      "number": 104,
+      "name": "Zapdos ex",
+      "type": "Lightning",
+      "rarity": "D4",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1-105",
+      "setId": "A1",
+      "number": 105,
+      "name": "Blitzle",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-106",
+      "setId": "A1",
+      "number": 106,
+      "name": "Zebstrika",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-107",
+      "setId": "A1",
+      "number": 107,
+      "name": "Tynamo",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 30,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-108",
+      "setId": "A1",
+      "number": 108,
+      "name": "Eelektrik",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-109",
+      "setId": "A1",
+      "number": 109,
+      "name": "Eelektross",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-110",
+      "setId": "A1",
+      "number": 110,
+      "name": "Helioptile",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-111",
+      "setId": "A1",
+      "number": 111,
+      "name": "Heliolisk",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-112",
+      "setId": "A1",
+      "number": 112,
+      "name": "Pincurchin",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-113",
+      "setId": "A1",
+      "number": 113,
+      "name": "Clefairy",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-114",
+      "setId": "A1",
+      "number": 114,
+      "name": "Clefable",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-115",
+      "setId": "A1",
+      "number": 115,
+      "name": "Abra",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-116",
+      "setId": "A1",
+      "number": 116,
+      "name": "Kadabra",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-117",
+      "setId": "A1",
+      "number": 117,
+      "name": "Alakazam",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-118",
+      "setId": "A1",
+      "number": 118,
+      "name": "Slowpoke",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-119",
+      "setId": "A1",
+      "number": 119,
+      "name": "Slowbro",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-120",
+      "setId": "A1",
+      "number": 120,
+      "name": "Gastly",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-121",
+      "setId": "A1",
+      "number": 121,
+      "name": "Haunter",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-122",
+      "setId": "A1",
+      "number": 122,
+      "name": "Gengar",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 130,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-123",
+      "setId": "A1",
+      "number": 123,
+      "name": "Gengar ex",
+      "type": "Psychic",
+      "rarity": "D4",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 170,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1-124",
+      "setId": "A1",
+      "number": 124,
+      "name": "Drowzee",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-125",
+      "setId": "A1",
+      "number": 125,
+      "name": "Hypno",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-126",
+      "setId": "A1",
+      "number": 126,
+      "name": "Mr. Mime",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-127",
+      "setId": "A1",
+      "number": 127,
+      "name": "Jynx",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-128",
+      "setId": "A1",
+      "number": 128,
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 120,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-129",
+      "setId": "A1",
+      "number": 129,
+      "name": "Mewtwo ex",
+      "type": "Psychic",
+      "rarity": "D4",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 150,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1-130",
+      "setId": "A1",
+      "number": 130,
+      "name": "Ralts",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-131",
+      "setId": "A1",
+      "number": 131,
+      "name": "Kirlia",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-132",
+      "setId": "A1",
+      "number": 132,
+      "name": "Gardevoir",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 110,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-133",
+      "setId": "A1",
+      "number": 133,
+      "name": "Woobat",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-134",
+      "setId": "A1",
+      "number": 134,
+      "name": "Swoobat",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-135",
+      "setId": "A1",
+      "number": 135,
+      "name": "Golett",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-136",
+      "setId": "A1",
+      "number": 136,
+      "name": "Golurk",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 140,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-137",
+      "setId": "A1",
+      "number": 137,
+      "name": "Sandshrew",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-138",
+      "setId": "A1",
+      "number": 138,
+      "name": "Sandslash",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-139",
+      "setId": "A1",
+      "number": 139,
+      "name": "Diglett",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-140",
+      "setId": "A1",
+      "number": 140,
+      "name": "Dugtrio",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-141",
+      "setId": "A1",
+      "number": 141,
+      "name": "Mankey",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-142",
+      "setId": "A1",
+      "number": 142,
+      "name": "Primeape",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-143",
+      "setId": "A1",
+      "number": 143,
+      "name": "Machop",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-144",
+      "setId": "A1",
+      "number": 144,
+      "name": "Machoke",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-145",
+      "setId": "A1",
+      "number": 145,
+      "name": "Machamp",
+      "type": "Fighting",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 150,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-146",
+      "setId": "A1",
+      "number": 146,
+      "name": "Machamp ex",
+      "type": "Fighting",
+      "rarity": "D4",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1-147",
+      "setId": "A1",
+      "number": 147,
+      "name": "Geodude",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-148",
+      "setId": "A1",
+      "number": 148,
+      "name": "Graveler",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-149",
+      "setId": "A1",
+      "number": 149,
+      "name": "Golem",
+      "type": "Fighting",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 160,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-150",
+      "setId": "A1",
+      "number": 150,
+      "name": "Onix",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 110,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-151",
+      "setId": "A1",
+      "number": 151,
+      "name": "Cubone",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-152",
+      "setId": "A1",
+      "number": 152,
+      "name": "Marowak",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-153",
+      "setId": "A1",
+      "number": 153,
+      "name": "Marowak ex",
+      "type": "Fighting",
+      "rarity": "D4",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1-154",
+      "setId": "A1",
+      "number": 154,
+      "name": "Hitmonlee",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-155",
+      "setId": "A1",
+      "number": 155,
+      "name": "Hitmonchan",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-156",
+      "setId": "A1",
+      "number": 156,
+      "name": "Rhyhorn",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-157",
+      "setId": "A1",
+      "number": 157,
+      "name": "Rhydon",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-158",
+      "setId": "A1",
+      "number": 158,
+      "name": "Kabuto",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-159",
+      "setId": "A1",
+      "number": 159,
+      "name": "Kabutops",
+      "type": "Fighting",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-160",
+      "setId": "A1",
+      "number": 160,
+      "name": "Mienfoo",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-161",
+      "setId": "A1",
+      "number": 161,
+      "name": "Mienshao",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-162",
+      "setId": "A1",
+      "number": 162,
+      "name": "Clobbopus",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-163",
+      "setId": "A1",
+      "number": 163,
+      "name": "Grapploct",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-164",
+      "setId": "A1",
+      "number": 164,
+      "name": "Ekans",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-165",
+      "setId": "A1",
+      "number": 165,
+      "name": "Arbok",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-166",
+      "setId": "A1",
+      "number": 166,
+      "name": "Nidoran♀",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-167",
+      "setId": "A1",
+      "number": 167,
+      "name": "Nidorina",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-168",
+      "setId": "A1",
+      "number": 168,
+      "name": "Nidoqueen",
+      "type": "Darkness",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-169",
+      "setId": "A1",
+      "number": 169,
+      "name": "Nidoran♂",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-170",
+      "setId": "A1",
+      "number": 170,
+      "name": "Nidorino",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-171",
+      "setId": "A1",
+      "number": 171,
+      "name": "Nidoking",
+      "type": "Darkness",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-172",
+      "setId": "A1",
+      "number": 172,
+      "name": "Zubat",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-173",
+      "setId": "A1",
+      "number": 173,
+      "name": "Golbat",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-174",
+      "setId": "A1",
+      "number": 174,
+      "name": "Grimer",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-175",
+      "setId": "A1",
+      "number": 175,
+      "name": "Muk",
+      "type": "Darkness",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-176",
+      "setId": "A1",
+      "number": 176,
+      "name": "Koffing",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-177",
+      "setId": "A1",
+      "number": 177,
+      "name": "Weezing",
+      "type": "Darkness",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 110,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-178",
+      "setId": "A1",
+      "number": 178,
+      "name": "Mawile",
+      "type": "Metal",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-179",
+      "setId": "A1",
+      "number": 179,
+      "name": "Pawniard",
+      "type": "Metal",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-180",
+      "setId": "A1",
+      "number": 180,
+      "name": "Bisharp",
+      "type": "Metal",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-181",
+      "setId": "A1",
+      "number": 181,
+      "name": "Meltan",
+      "type": "Metal",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-182",
+      "setId": "A1",
+      "number": 182,
+      "name": "Melmetal",
+      "type": "Metal",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-183",
+      "setId": "A1",
+      "number": 183,
+      "name": "Dratini",
+      "type": "Dragon",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-184",
+      "setId": "A1",
+      "number": 184,
+      "name": "Dragonair",
+      "type": "Dragon",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-185",
+      "setId": "A1",
+      "number": 185,
+      "name": "Dragonite",
+      "type": "Dragon",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 160,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-186",
+      "setId": "A1",
+      "number": 186,
+      "name": "Pidgey",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-187",
+      "setId": "A1",
+      "number": 187,
+      "name": "Pidgeotto",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-188",
+      "setId": "A1",
+      "number": 188,
+      "name": "Pidgeot",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 130,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1-189",
+      "setId": "A1",
+      "number": 189,
+      "name": "Rattata",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 40,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-190",
+      "setId": "A1",
+      "number": 190,
+      "name": "Raticate",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-191",
+      "setId": "A1",
+      "number": 191,
+      "name": "Spearow",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-192",
+      "setId": "A1",
+      "number": 192,
+      "name": "Fearow",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-193",
+      "setId": "A1",
+      "number": 193,
+      "name": "Jigglypuff",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-194",
+      "setId": "A1",
+      "number": 194,
+      "name": "Wigglytuff",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-195",
+      "setId": "A1",
+      "number": 195,
+      "name": "Wigglytuff ex",
+      "type": "Colorless",
+      "rarity": "D4",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1-196",
+      "setId": "A1",
+      "number": 196,
+      "name": "Meowth",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-197",
+      "setId": "A1",
+      "number": 197,
+      "name": "Persian",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-198",
+      "setId": "A1",
+      "number": 198,
+      "name": "Farfetch'd",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-199",
+      "setId": "A1",
+      "number": 199,
+      "name": "Doduo",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-200",
+      "setId": "A1",
+      "number": 200,
+      "name": "Dodrio",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-201",
+      "setId": "A1",
+      "number": 201,
+      "name": "Lickitung",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 90,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-202",
+      "setId": "A1",
+      "number": 202,
+      "name": "Chansey",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-203",
+      "setId": "A1",
+      "number": 203,
+      "name": "Kangaskhan",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-204",
+      "setId": "A1",
+      "number": 204,
+      "name": "Tauros",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-205",
+      "setId": "A1",
+      "number": 205,
+      "name": "Ditto",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-206",
+      "setId": "A1",
+      "number": 206,
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-207",
+      "setId": "A1",
+      "number": 207,
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-208",
+      "setId": "A1",
+      "number": 208,
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-209",
+      "setId": "A1",
+      "number": 209,
+      "name": "Porygon",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-210",
+      "setId": "A1",
+      "number": 210,
+      "name": "Aerodactyl",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-211",
+      "setId": "A1",
+      "number": 211,
+      "name": "Snorlax",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-212",
+      "setId": "A1",
+      "number": 212,
+      "name": "Minccino",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-213",
+      "setId": "A1",
+      "number": 213,
+      "name": "Cinccino",
+      "type": "Colorless",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-214",
+      "setId": "A1",
+      "number": 214,
+      "name": "Wooloo",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1-215",
+      "setId": "A1",
+      "number": 215,
+      "name": "Dubwool",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1-216",
+      "setId": "A1",
+      "number": 216,
+      "name": "Helix Fossil",
+      "type": "Trainer",
+      "rarity": "D1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1-217",
+      "setId": "A1",
+      "number": 217,
+      "name": "Dome Fossil",
+      "type": "Trainer",
+      "rarity": "D1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1-218",
+      "setId": "A1",
+      "number": 218,
+      "name": "Old Amber",
+      "type": "Trainer",
+      "rarity": "D1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1-219",
+      "setId": "A1",
+      "number": 219,
+      "name": "Erika",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-220",
+      "setId": "A1",
+      "number": 220,
+      "name": "Misty",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-221",
+      "setId": "A1",
+      "number": 221,
+      "name": "Blaine",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-222",
+      "setId": "A1",
+      "number": 222,
+      "name": "Koga",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-223",
+      "setId": "A1",
+      "number": 223,
+      "name": "Giovanni",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-224",
+      "setId": "A1",
+      "number": 224,
+      "name": "Brock",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-225",
+      "setId": "A1",
+      "number": 225,
+      "name": "Sabrina",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-226",
+      "setId": "A1",
+      "number": 226,
+      "name": "Lt. Surge",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1-227",
+      "setId": "A1",
+      "number": 227,
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-228",
+      "setId": "A1",
+      "number": 228,
+      "name": "Gloom",
+      "type": "Grass",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 80,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-229",
+      "setId": "A1",
+      "number": 229,
+      "name": "Pinsir",
+      "type": "Grass",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 90,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-230",
+      "setId": "A1",
+      "number": 230,
+      "name": "Charmander",
+      "type": "Fire",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-231",
+      "setId": "A1",
+      "number": 231,
+      "name": "Rapidash",
+      "type": "Fire",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-232",
+      "setId": "A1",
+      "number": 232,
+      "name": "Squirtle",
+      "type": "Water",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-233",
+      "setId": "A1",
+      "number": 233,
+      "name": "Gyarados",
+      "type": "Water",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-234",
+      "setId": "A1",
+      "number": 234,
+      "name": "Lapras",
+      "type": "Water",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 100,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-235",
+      "setId": "A1",
+      "number": 235,
+      "name": "Electrode",
+      "type": "Lightning",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 80,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-236",
+      "setId": "A1",
+      "number": 236,
+      "name": "Alakazam",
+      "type": "Psychic",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-237",
+      "setId": "A1",
+      "number": 237,
+      "name": "Slowpoke",
+      "type": "Psychic",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 70,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-238",
+      "setId": "A1",
+      "number": 238,
+      "name": "Diglett",
+      "type": "Fighting",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 50,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-239",
+      "setId": "A1",
+      "number": 239,
+      "name": "Cubone",
+      "type": "Fighting",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-240",
+      "setId": "A1",
+      "number": 240,
+      "name": "Nidoqueen",
+      "type": "Darkness",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 140,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-241",
+      "setId": "A1",
+      "number": 241,
+      "name": "Nidoking",
+      "type": "Darkness",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-242",
+      "setId": "A1",
+      "number": 242,
+      "name": "Golbat",
+      "type": "Darkness",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-243",
+      "setId": "A1",
+      "number": 243,
+      "name": "Weezing",
+      "type": "Darkness",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 110,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-244",
+      "setId": "A1",
+      "number": 244,
+      "name": "Dragonite",
+      "type": "Dragon",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 160,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-245",
+      "setId": "A1",
+      "number": 245,
+      "name": "Pidgeot",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 130,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-246",
+      "setId": "A1",
+      "number": 246,
+      "name": "Meowth",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-247",
+      "setId": "A1",
+      "number": 247,
+      "name": "Ditto",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 70,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-248",
+      "setId": "A1",
+      "number": 248,
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-249",
+      "setId": "A1",
+      "number": 249,
+      "name": "Porygon",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 50,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-250",
+      "setId": "A1",
+      "number": 250,
+      "name": "Snorlax",
+      "type": "Colorless",
+      "rarity": "S1",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-251",
+      "setId": "A1",
+      "number": 251,
+      "name": "Venusaur ex",
+      "type": "Grass",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 190,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-252",
+      "setId": "A1",
+      "number": 252,
+      "name": "Exeggutor ex",
+      "type": "Grass",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 160,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-253",
+      "setId": "A1",
+      "number": 253,
+      "name": "Charizard ex",
+      "type": "Fire",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-254",
+      "setId": "A1",
+      "number": 254,
+      "name": "Arcanine ex",
+      "type": "Fire",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-255",
+      "setId": "A1",
+      "number": 255,
+      "name": "Moltres ex",
+      "type": "Fire",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-256",
+      "setId": "A1",
+      "number": 256,
+      "name": "Blastoise ex",
+      "type": "Water",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-257",
+      "setId": "A1",
+      "number": 257,
+      "name": "Starmie ex",
+      "type": "Water",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 130,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-258",
+      "setId": "A1",
+      "number": 258,
+      "name": "Articuno ex",
+      "type": "Water",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-259",
+      "setId": "A1",
+      "number": 259,
+      "name": "Pikachu ex",
+      "type": "Lightning",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-260",
+      "setId": "A1",
+      "number": 260,
+      "name": "Zapdos ex",
+      "type": "Lightning",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-261",
+      "setId": "A1",
+      "number": 261,
+      "name": "Gengar ex",
+      "type": "Psychic",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 170,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-262",
+      "setId": "A1",
+      "number": 262,
+      "name": "Mewtwo ex",
+      "type": "Psychic",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 150,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-263",
+      "setId": "A1",
+      "number": 263,
+      "name": "Machamp ex",
+      "type": "Fighting",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-264",
+      "setId": "A1",
+      "number": 264,
+      "name": "Marowak ex",
+      "type": "Fighting",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-266",
+      "setId": "A1",
+      "number": 266,
+      "name": "Erika",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-267",
+      "setId": "A1",
+      "number": 267,
+      "name": "Misty",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-268",
+      "setId": "A1",
+      "number": 268,
+      "name": "Blaine",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-269",
+      "setId": "A1",
+      "number": 269,
+      "name": "Koga",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-270",
+      "setId": "A1",
+      "number": 270,
+      "name": "Giovanni",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-271",
+      "setId": "A1",
+      "number": 271,
+      "name": "Brock",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-272",
+      "setId": "A1",
+      "number": 272,
+      "name": "Sabrina",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-273",
+      "setId": "A1",
+      "number": 273,
+      "name": "Lt. Surge",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-274",
+      "setId": "A1",
+      "number": 274,
+      "name": "Moltres ex",
+      "type": "Fire",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-275",
+      "setId": "A1",
+      "number": 275,
+      "name": "Articuno ex",
+      "type": "Water",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 140,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-276",
+      "setId": "A1",
+      "number": 276,
+      "name": "Zapdos ex",
+      "type": "Lightning",
+      "rarity": "S2",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-277",
+      "setId": "A1",
+      "number": 277,
+      "name": "Gengar ex",
+      "type": "Psychic",
+      "rarity": "S2",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 170,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-278",
+      "setId": "A1",
+      "number": 278,
+      "name": "Machamp ex",
+      "type": "Fighting",
+      "rarity": "S2",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-280",
+      "setId": "A1",
+      "number": 280,
+      "name": "Charizard ex",
+      "type": "Fire",
+      "rarity": "S3",
+      "packs": [
+        "A1-charizard"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-281",
+      "setId": "A1",
+      "number": 281,
+      "name": "Pikachu ex",
+      "type": "Lightning",
+      "rarity": "S3",
+      "packs": [
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-282",
+      "setId": "A1",
+      "number": 282,
+      "name": "Mewtwo ex",
+      "type": "Psychic",
+      "rarity": "S3",
+      "packs": [
+        "A1-mewtwo"
+      ],
+      "hp": 150,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-283",
+      "setId": "A1",
+      "number": 283,
+      "name": "Mew",
+      "type": "Psychic",
+      "rarity": "S3",
+      "packs": [
+        "A1-charizard",
+        "A1-mewtwo",
+        "A1-pikachu"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1-284",
+      "setId": "A1",
+      "number": 284,
+      "name": "Charizard ex",
+      "type": "Fire",
+      "rarity": "CROWN",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 180,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-285",
+      "setId": "A1",
+      "number": 285,
+      "name": "Pikachu ex",
+      "type": "Lightning",
+      "rarity": "CROWN",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 120,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1-286",
+      "setId": "A1",
+      "number": 286,
+      "name": "Mewtwo ex",
+      "type": "Psychic",
+      "rarity": "CROWN",
+      "packs": [
+        "A1-mewtwo",
+        "A1-charizard",
+        "A1-pikachu"
+      ],
+      "hp": 150,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    }
+  ]
+}

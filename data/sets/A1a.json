@@ -1,0 +1,1150 @@
+{
+  "_source": "tcgdex",
+  "_fetched": "2026-08-19T00:19:46.931Z",
+  "setId": "A1a",
+  "name": "Mythical Island",
+  "officialCount": 68,
+  "cards": [
+    {
+      "id": "A1a-001",
+      "setId": "A1a",
+      "number": 1,
+      "name": "Exeggcute",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-002",
+      "setId": "A1a",
+      "number": 2,
+      "name": "Exeggutor",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-003",
+      "setId": "A1a",
+      "number": 3,
+      "name": "Celebi ex",
+      "type": "Grass",
+      "rarity": "D4",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1a-004",
+      "setId": "A1a",
+      "number": 4,
+      "name": "Snivy",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-005",
+      "setId": "A1a",
+      "number": 5,
+      "name": "Servine",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-006",
+      "setId": "A1a",
+      "number": 6,
+      "name": "Serperior",
+      "type": "Grass",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 110,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1a-007",
+      "setId": "A1a",
+      "number": 7,
+      "name": "Morelull",
+      "type": "Grass",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-008",
+      "setId": "A1a",
+      "number": 8,
+      "name": "Shiinotic",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-009",
+      "setId": "A1a",
+      "number": 9,
+      "name": "Dhelmise",
+      "type": "Grass",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-010",
+      "setId": "A1a",
+      "number": 10,
+      "name": "Ponyta",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-011",
+      "setId": "A1a",
+      "number": 11,
+      "name": "Rapidash",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-012",
+      "setId": "A1a",
+      "number": 12,
+      "name": "Magmar",
+      "type": "Fire",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-013",
+      "setId": "A1a",
+      "number": 13,
+      "name": "Larvesta",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-014",
+      "setId": "A1a",
+      "number": 14,
+      "name": "Volcarona",
+      "type": "Fire",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-015",
+      "setId": "A1a",
+      "number": 15,
+      "name": "Salandit",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-016",
+      "setId": "A1a",
+      "number": 16,
+      "name": "Salazzle",
+      "type": "Fire",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-017",
+      "setId": "A1a",
+      "number": 17,
+      "name": "Magikarp",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 30,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-018",
+      "setId": "A1a",
+      "number": 18,
+      "name": "Gyarados ex",
+      "type": "Water",
+      "rarity": "D4",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 180,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1a-019",
+      "setId": "A1a",
+      "number": 19,
+      "name": "Vaporeon",
+      "type": "Water",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-020",
+      "setId": "A1a",
+      "number": 20,
+      "name": "Finneon",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-021",
+      "setId": "A1a",
+      "number": 21,
+      "name": "Lumineon",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-022",
+      "setId": "A1a",
+      "number": 22,
+      "name": "Chewtle",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-023",
+      "setId": "A1a",
+      "number": 23,
+      "name": "Drednaw",
+      "type": "Water",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-024",
+      "setId": "A1a",
+      "number": 24,
+      "name": "Cramorant",
+      "type": "Water",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-025",
+      "setId": "A1a",
+      "number": 25,
+      "name": "Pikachu",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-026",
+      "setId": "A1a",
+      "number": 26,
+      "name": "Raichu",
+      "type": "Lightning",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-027",
+      "setId": "A1a",
+      "number": 27,
+      "name": "Electabuzz",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-028",
+      "setId": "A1a",
+      "number": 28,
+      "name": "Joltik",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 40,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-029",
+      "setId": "A1a",
+      "number": 29,
+      "name": "Galvantula",
+      "type": "Lightning",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-030",
+      "setId": "A1a",
+      "number": 30,
+      "name": "Dedenne",
+      "type": "Lightning",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-031",
+      "setId": "A1a",
+      "number": 31,
+      "name": "Mew",
+      "type": "Psychic",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-032",
+      "setId": "A1a",
+      "number": 32,
+      "name": "Mew ex",
+      "type": "Psychic",
+      "rarity": "D4",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true
+    },
+    {
+      "id": "A1a-033",
+      "setId": "A1a",
+      "number": 33,
+      "name": "Sigilyph",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-034",
+      "setId": "A1a",
+      "number": 34,
+      "name": "Elgyem",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-035",
+      "setId": "A1a",
+      "number": 35,
+      "name": "Beheeyem",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-036",
+      "setId": "A1a",
+      "number": 36,
+      "name": "Flabébé",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 40,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-037",
+      "setId": "A1a",
+      "number": 37,
+      "name": "Floette",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 70,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-038",
+      "setId": "A1a",
+      "number": 38,
+      "name": "Florges",
+      "type": "Psychic",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1a-039",
+      "setId": "A1a",
+      "number": 39,
+      "name": "Swirlix",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-040",
+      "setId": "A1a",
+      "number": 40,
+      "name": "Slurpuff",
+      "type": "Psychic",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-041",
+      "setId": "A1a",
+      "number": 41,
+      "name": "Mankey",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-042",
+      "setId": "A1a",
+      "number": 42,
+      "name": "Primeape",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-043",
+      "setId": "A1a",
+      "number": 43,
+      "name": "Geodude",
+      "type": "Fighting",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-044",
+      "setId": "A1a",
+      "number": 44,
+      "name": "Graveler",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-045",
+      "setId": "A1a",
+      "number": 45,
+      "name": "Golem",
+      "type": "Fighting",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 160,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1a-046",
+      "setId": "A1a",
+      "number": 46,
+      "name": "Aerodactyl ex",
+      "type": "Fighting",
+      "rarity": "D4",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true
+    },
+    {
+      "id": "A1a-047",
+      "setId": "A1a",
+      "number": 47,
+      "name": "Marshadow",
+      "type": "Fighting",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-048",
+      "setId": "A1a",
+      "number": 48,
+      "name": "Stonjourner",
+      "type": "Fighting",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-049",
+      "setId": "A1a",
+      "number": 49,
+      "name": "Koffing",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 70,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-050",
+      "setId": "A1a",
+      "number": 50,
+      "name": "Weezing",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 110,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-051",
+      "setId": "A1a",
+      "number": 51,
+      "name": "Purrloin",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-052",
+      "setId": "A1a",
+      "number": 52,
+      "name": "Liepard",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-053",
+      "setId": "A1a",
+      "number": 53,
+      "name": "Venipede",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-054",
+      "setId": "A1a",
+      "number": 54,
+      "name": "Whirlipede",
+      "type": "Darkness",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-055",
+      "setId": "A1a",
+      "number": 55,
+      "name": "Scolipede",
+      "type": "Darkness",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 140,
+      "stage": "Stage 2"
+    },
+    {
+      "id": "A1a-056",
+      "setId": "A1a",
+      "number": 56,
+      "name": "Druddigon",
+      "type": "Dragon",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-057",
+      "setId": "A1a",
+      "number": 57,
+      "name": "Pidgey",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 50,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-058",
+      "setId": "A1a",
+      "number": 58,
+      "name": "Pidgeotto",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 90,
+      "stage": "Stage 1"
+    },
+    {
+      "id": "A1a-059",
+      "setId": "A1a",
+      "number": 59,
+      "name": "Pidgeot ex",
+      "type": "Colorless",
+      "rarity": "D4",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 170,
+      "stage": "Stage 2",
+      "isEx": true
+    },
+    {
+      "id": "A1a-060",
+      "setId": "A1a",
+      "number": 60,
+      "name": "Tauros",
+      "type": "Colorless",
+      "rarity": "D3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 100,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-061",
+      "setId": "A1a",
+      "number": 61,
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-062",
+      "setId": "A1a",
+      "number": 62,
+      "name": "Chatot",
+      "type": "Colorless",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic"
+    },
+    {
+      "id": "A1a-063",
+      "setId": "A1a",
+      "number": 63,
+      "name": "Old Amber",
+      "type": "Trainer",
+      "rarity": "D1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1a-064",
+      "setId": "A1a",
+      "number": 64,
+      "name": "Pokémon Flute",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1a-065",
+      "setId": "A1a",
+      "number": 65,
+      "name": "Mythical Slab",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Item"
+    },
+    {
+      "id": "A1a-066",
+      "setId": "A1a",
+      "number": 66,
+      "name": "Budding Expeditioner",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1a-067",
+      "setId": "A1a",
+      "number": 67,
+      "name": "Blue",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1a-068",
+      "setId": "A1a",
+      "number": 68,
+      "name": "Leaf",
+      "type": "Trainer",
+      "rarity": "D2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter"
+    },
+    {
+      "id": "A1a-069",
+      "setId": "A1a",
+      "number": 69,
+      "name": "Exeggutor",
+      "type": "Grass",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-070",
+      "setId": "A1a",
+      "number": 70,
+      "name": "Serperior",
+      "type": "Grass",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 110,
+      "stage": "Stage 2",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-071",
+      "setId": "A1a",
+      "number": 71,
+      "name": "Salandit",
+      "type": "Fire",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-072",
+      "setId": "A1a",
+      "number": 72,
+      "name": "Vaporeon",
+      "type": "Water",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 120,
+      "stage": "Stage 1",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-073",
+      "setId": "A1a",
+      "number": 73,
+      "name": "Dedenne",
+      "type": "Lightning",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 60,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-074",
+      "setId": "A1a",
+      "number": 74,
+      "name": "Marshadow",
+      "type": "Fighting",
+      "rarity": "S1",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 80,
+      "stage": "Basic",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-075",
+      "setId": "A1a",
+      "number": 75,
+      "name": "Celebi ex",
+      "type": "Grass",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-076",
+      "setId": "A1a",
+      "number": 76,
+      "name": "Gyarados ex",
+      "type": "Water",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 180,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-077",
+      "setId": "A1a",
+      "number": 77,
+      "name": "Mew ex",
+      "type": "Psychic",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-078",
+      "setId": "A1a",
+      "number": 78,
+      "name": "Aerodactyl ex",
+      "type": "Fighting",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-079",
+      "setId": "A1a",
+      "number": 79,
+      "name": "Pidgeot ex",
+      "type": "Colorless",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 170,
+      "stage": "Stage 2",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-080",
+      "setId": "A1a",
+      "number": 80,
+      "name": "Budding Expeditioner",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-081",
+      "setId": "A1a",
+      "number": 81,
+      "name": "Blue",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-082",
+      "setId": "A1a",
+      "number": 82,
+      "name": "Leaf",
+      "type": "Trainer",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "stage": "Supporter",
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-083",
+      "setId": "A1a",
+      "number": 83,
+      "name": "Mew ex",
+      "type": "Psychic",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-084",
+      "setId": "A1a",
+      "number": 84,
+      "name": "Aerodactyl ex",
+      "type": "Fighting",
+      "rarity": "S2",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 140,
+      "stage": "Stage 1",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-085",
+      "setId": "A1a",
+      "number": 85,
+      "name": "Celebi ex",
+      "type": "Grass",
+      "rarity": "S3",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    },
+    {
+      "id": "A1a-086",
+      "setId": "A1a",
+      "number": 86,
+      "name": "Mew ex",
+      "type": "Psychic",
+      "rarity": "CROWN",
+      "packs": [
+        "A1a-mew"
+      ],
+      "hp": 130,
+      "stage": "Basic",
+      "isEx": true,
+      "isFullArt": true
+    }
+  ]
+}

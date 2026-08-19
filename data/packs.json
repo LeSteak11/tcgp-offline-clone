@@ -1,0 +1,12 @@
+{
+  "packs": [
+    { "id": "A1-charizard", "setId": "A1", "name": "Charizard", "color": "#e8542e" },
+    { "id": "A1-mewtwo", "setId": "A1", "name": "Mewtwo", "color": "#8e5bd8" },
+    { "id": "A1-pikachu", "setId": "A1", "name": "Pikachu", "color": "#f2c31b" },
+    { "id": "A1a-mew", "setId": "A1a", "name": "Mew", "color": "#e87ec0" }
+  ],
+  "sets": [
+    { "id": "A1", "name": "Genetic Apex" },
+    { "id": "A1a", "name": "Mythical Island" }
+  ]
+}
