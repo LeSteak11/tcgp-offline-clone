@@ -24,3 +24,8 @@ export function rarityGlyphs(r: Rarity): string {
 export function isStarOrAbove(r: Rarity): boolean {
   return rarityRank(r) >= rarityRank('S1');
 }
+
+/** Top-tier pulls (★★★ / ♛) that get the full-stage reveal treatment. */
+export function isHighTier(r: Rarity): boolean {
+  return r === 'S3' || r === 'CROWN';
+}
